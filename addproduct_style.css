@@ -1,0 +1,44 @@
+body
+{
+	margin: 20px;
+	width: 100%;
+}
+.logo
+{
+	width: 18%;
+	float: left;
+}
+.header
+{
+ 	width: 90%;
+ 	padding-bottom: 60px;
+}
+
+.notextdecor
+{
+	text-decoration: none;
+	color: black;
+}
+.notextdecor:hover
+{
+	color:gray;
+}
+.noliststyle
+{
+	list-style: none;
+}
+.content
+{
+	font-family: calibri;
+	font-size: 30px;
+}
+.right
+{
+	float: left;
+	width: 80%;
+}
+.left
+{
+	float: left;
+	width: 20%;	
+}

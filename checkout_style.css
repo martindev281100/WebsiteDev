@@ -1,0 +1,65 @@
+body
+{
+	margin: 20px;
+	width: 100%;
+}
+.logo
+{
+	width: 18%;
+	float: left;
+}
+.cartLogo
+{
+	width: 3%;
+	position: relative;
+	left: 100px;
+	margin-top: 10px;
+}
+.header
+{
+ 	width: 90%;
+ 	padding-bottom: 60px;
+}
+.left
+{
+	float: left;
+ 	width: 25%;
+}
+.font
+{
+	font-family: calibri;
+}
+.search
+{
+	font-size: 30px;
+	float: right;
+	width: 60%;
+	margin-top: 10px;
+}
+.content ul
+{
+	list-style: none;
+}
+
+.checkout
+{
+	font-family: calibri;
+	font-size: 30px;
+	margin-left: 50px;
+}
+.input
+{
+	margin: 20px;
+	width: 400px;
+	height: 25px;
+	font-size: 24px;
+}
+.notice
+{
+	text-decoration: none;
+	color: black;
+}
+.notice:hover
+{
+	color: gray;
+}

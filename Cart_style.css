@@ -1,0 +1,90 @@
+body
+{
+	margin: 20px;
+	width: 100%;
+}
+.logo
+{
+	width: 18%;
+	float: left;
+}
+.cartLogo
+{
+	width: 3%;
+	position: relative;
+	left: 100px;
+	margin-top: 10px;
+}
+.header
+{
+ 	width: 90%;
+ 	padding-bottom: 60px;
+}
+.left
+{
+	float: left;
+ 	width: 25%;
+}
+.font
+{
+	font-family: calibri;
+}
+.search
+{
+	font-size: 30px;
+	float: right;
+	width: 60%;
+	margin-top: 10px;
+}
+.content ul
+{
+	list-style: none;
+}
+
+.cartMid
+{
+	float: left;
+	margin-top: 25px;
+	margin-left: 200px;
+	font-family: calibri;
+}
+.yourcart
+{
+	font-size: 30px;
+}
+.productimg
+{
+	float: left;
+	width: 300px ;
+}
+.productname
+{
+	font-family: calibri;
+	font-size: 20px;	
+	padding:0 80px 0;
+}
+.productprice
+{
+	font-size: 20px
+	font-family: calibri;
+	padding: 0 50px 0;
+}
+.table
+
+{
+	margin-left: px;
+}
+.notextdecor
+{
+	text-decoration: none;
+}
+.checkout
+{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+}
+.checkout:hover
+{
+	color: gray;
+}

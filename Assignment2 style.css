@@ -1,0 +1,78 @@
+body
+{
+	margin: 20px;
+	width: 100%;
+}
+.logo
+{
+	width: 18%;
+	float: left;
+}
+.cartLogo
+{
+	width: 3%;
+	position: relative;
+	left: 100px;
+	margin-top: 10px;
+}
+.header
+{
+ 	width: 90%;
+ 	padding-bottom: 60px;
+}
+.left
+{
+	float: left;
+ 	width: 25%;
+}
+.font
+{
+	font-family: calibri;
+}
+.search
+{
+	font-size: 30px;
+	float: right;
+	width: 60%;
+	margin-top: 10px;
+}
+.content
+{
+	position: relative;
+	background-position: center;
+	background-image: url(image/Adidas_shoes.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	line-height: 40px;
+	margin-right: 40px;
+}
+.bcontent
+{
+	color: white;
+	position: relative;
+	left: 50px;
+	font-family: calibri;
+}
+.body
+{
+	margin-top: 10px;
+}
+.copyright
+{
+	font-style: bold;	
+}
+
+.ShopN
+{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 50px;
+	font-size: 30px;
+	font-family: calibri;
+}
+.ShopN:hover
+{
+	color: #FC9496;
+}
+

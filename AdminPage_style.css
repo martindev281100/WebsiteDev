@@ -1,0 +1,72 @@
+body
+{
+	margin: 20px;
+	width: 100%;
+}
+.logo
+{
+	width: 18%;
+	float: left;
+}
+.header
+{
+ 	width: 90%;
+ 	padding-bottom: 60px;
+}
+
+.notextdecor
+{
+	text-decoration: none;
+	color: black;
+}
+.notextdecor:hover
+{
+	color:gray;
+}
+.noliststyle
+{
+	list-style: none;
+}
+.left	
+{
+	float:left;
+	width: 12%;
+	border: 1px solid black;
+	height: 100px;
+}
+.left li
+{
+	height: 25px;
+}
+.right
+{
+	float: left;
+	width:85%;
+}
+.content
+{
+	background-color: gray;
+
+}
+
+.col1
+{
+	float: left;
+	width: ;
+}
+.col2
+{
+	width: 20%;
+}
+.colimg
+{
+	width: 20%;
+}
+.col4
+{
+	width: 15%;
+}
+.col5
+{
+	width: 5%;
+}
